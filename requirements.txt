@@ -1,0 +1,5 @@
+bln
+ipykernel
+jupyter
+papermill
+requests
